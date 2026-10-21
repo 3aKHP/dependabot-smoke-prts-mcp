@@ -1,0 +1,8 @@
+{
+  "name": "dependabot-smoke-prts-mcp",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "prts-mcp": "3.1.1"
+  }
+}
